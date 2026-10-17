@@ -1,0 +1,18 @@
+{
+  "title": "Nai Afore",
+  "description": "Soy Nai, asesora especializada en seguro de desempleo, pensiones y servicios financieros, con 16 años de experiencia en el ramo.",
+  "language": "es",
+  "robots": {
+    "index": false
+  },
+  "icons": {
+    "icon": "/.figma/make/favicon.png"
+  },
+  "openGraph": {
+    "image": "/.figma/make/social-image.png"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
